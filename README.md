@@ -1,7 +1,5 @@
 # WittyWebby Chrome Extension
 
-![WittyWebby Chrome Extension](images/extension_preview.png)
-
 ## Introduction
 
 The WittyWebby Chrome Extension is a simple and delightful extension designed to deliver a daily dose of awesome jokes right to your browser. This extension is built with love using HTML, CSS, and advanced JavaScript, ensuring a seamless and enjoyable user experience.
